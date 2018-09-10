@@ -23,7 +23,7 @@
     "mkpath": "1.0.0",
     "mocha-nightwatch": "mergermarket/mocha-nightwatch#fix-security-vulnerabilities",
     "optimist": "0.6.1",
-    "proxy-agent": "2.0.0",
+    "proxy-agent": "^3.0.0",
     "q": "1.4.1"
   },
   "devDependencies": {
